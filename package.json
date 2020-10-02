@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ice-penguin/node-mysql2/issues"
   },
-  "homepage": "https://github.com/ice-penguin/node-mysql2#readme"
+  "homepage": "https://github.com/ice-penguin/node-mysql2#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
